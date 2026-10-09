@@ -1,6 +1,5 @@
 {
-  "version": "3.23",
-  "exe": "_v3.23_.exe",
-  "exe_url": "https://github.com/makabak100861345/fish-auto/releases/download/v3.23/_v3.23_.exe",
-  "notes": "GitHub在线更新；数据库断连自动重连；日志简洁模式；修复阵亡不复活bug"
+  "version": "3.24",
+  "exe_url": "https://github.com/makabak100861345/fish-auto/releases/download/v3.24/_v3.24_.exe",
+  "notes": "前台版（wechatauto-replica）"
 }
